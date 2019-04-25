@@ -1,0 +1,18 @@
+{
+	"main": "dist/index.js",
+	"license": "MIT",
+	"devDependencies": {
+		"@types/react": "^16.8"
+	},
+	"peerDependencies": {
+		"framer": "^1.0 || ^1.0.0-beta",
+		"react": "^16.8"
+	},
+	"framer": {
+		"id": "e952c4dd-ae10-4329-9fa0-c35b85263a62"
+	},
+	"author": "Toni Haupt",
+	"dependencies": {
+		"styled-components": "^4.2.0"
+	}
+}
